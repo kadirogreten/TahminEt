@@ -1,0 +1,4 @@
+* Uygulama sadece uygulama açılınca sayı tutuyor. Doğru sayıyı bulursam sonsuza kadar o sayıyla işlem yapabiliyorum.
+* Textbox'a string karakter girince (sayı dışında) Exception'a giriyor ve uygulama kill oluyor.
+* Integer değerinden büyük bir değer girdiğim zaman Exception'a giriyor ve kill oluyor.
+* İsimlendirmeler önemli. 10 adet textbox olduğunda karıştırma ihtimalini düşünmen gerekiyor.
